@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="hint">Input</string>
+    <string name="cancel">Cancel</string>
+    <string name="go">Go</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_up"><u>Sign Up for Facebook</u></string>
+</resources>
